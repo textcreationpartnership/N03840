@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0F5F35050C483210:004721_0000_0000000000000000"/>
-            <pb facs="tcp:0F5F35050C483210:004721_0001_0000000000000000"
+            <pb facs="unknown:004721_0000_0000000000000000"/>
+            <pb facs="unknown:004721_0001_0000000000000000"
                 rendition="simple:additions"/>
             <p>TAKE HEED HOW YE
 HEAR.</p>
@@ -134,7 +134,7 @@ Charles-Town <hi>Printed by</hi> Peter Timothy, 174<gap reason="illegible: blott
             </p>
          </div>
          <div type="errata">
-            <pb facs="tcp:0F5F35050C483210:004721_0002_0000000000000000"
+            <pb facs="unknown:004721_0002_0000000000000000"
                 rendition="simple:additions"/>
             <head>ERRATA.</head>
             <p>OF the PREFACE. Page 4, Line 20.
@@ -155,7 +155,7 @@ P. 38, L. 25. Before the Word, <hi>intervene,</hi> in<g ref="char:EOLhyphen"/>se
 the Word must.</p>
          </div>
          <div type="preface">
-            <pb n="3" facs="tcp:0F5F35050C483210:004721_0003_0000000000000000"/>
+            <pb n="3" facs="unknown:004721_0003_0000000000000000"/>
             <head>PREFACE.</head>
             <p>
                <seg rend="decorInit">T</seg>HE following Discourse appears
@@ -181,7 +181,7 @@ of <hi>Enthusiasm</hi> and abused Grace; HE
 DREW A PARALLEL between me, and
 all the <hi>Oliverians, Ranters, Quakers,
 French Prophets,</hi> 'till he came down to
-<pb n="4" facs="tcp:0F5F35050C483210:004721_0004_0000000000000000"/>
+<pb n="4" facs="unknown:004721_0004_0000000000000000"/>
 a Family of the <hi>Dutarts,</hi> who lived
 (not many Years ago) in <hi>South-Carolina,</hi>
 and were guilty of the most notorious
@@ -209,7 +209,7 @@ Whole; excepting only the Names of the
 of their Trial.</p>
             <p>The <hi>Reader</hi> will easily observe, that the
 plain and professed Scope of the <hi>censured</hi>
-               <pb n="5" facs="tcp:0F5F35050C483210:004721_0005_0000000000000000"/>
+               <pb n="5" facs="unknown:004721_0005_0000000000000000"/>
 Part of the Discourse was, to call my
 <hi>Hearers</hi> to their Guard, against that <hi>Bane</hi>
 of true Religion, <hi>Enthusiasm;</hi> by pointing
@@ -239,7 +239,7 @@ of this, to represent it as he has done; as
 containing not only <q>as horrid a <hi>Picture</hi>
 of him as the <hi>Devil</hi> himself could have
 <hi>painted,</hi> but also a <hi>Parallel</hi> actually
-<pb n="6" facs="tcp:0F5F35050C483210:004721_0006_0000000000000000"/>
+<pb n="6" facs="unknown:004721_0006_0000000000000000"/>
                   <hi>drawn</hi> 'twixt him and all the <hi>Oliveri<g ref="char:EOLhyphen"/>ans,
 &amp;c.</hi> down to the <hi>Dutarts,</hi> who
 were guilty of the most notorious <hi>Incest</hi>
@@ -268,7 +268,7 @@ Measure of <hi>Slander</hi> and <hi>Abuse</hi> is not yet
 full, it must soon be so: And therefore a
 few <hi>Remarks</hi> will suffice (and which I
 shall take this Opportunity to offer) on the
-<pb n="7" facs="tcp:0F5F35050C483210:004721_0007_0000000000000000"/>
+<pb n="7" facs="unknown:004721_0007_0000000000000000"/>
 several <hi>other</hi> Passages of his <hi>Iournals,</hi> in
 which I have the Honour to be mentioned.</p>
             <p>From Page 14th to the 22d of the afore<g ref="char:EOLhyphen"/>said
@@ -301,7 +301,7 @@ at the <hi>Iurisdiction</hi> of the Court; and after
 having set down the several crude Things
 he said on that Head, the Words of his
 <pb n="8"
-                   facs="tcp:0F5F35050C483210:004721_0008_0000000000000000"
+                   facs="unknown:004721_0008_0000000000000000"
                    rendition="simple:additions"/>
                <hi>Iournal</hi> are these—<q>I therefore upon
 the whole humbly desired as a Favour
@@ -330,7 +330,7 @@ No, he did not; but instead of <hi>receiving</hi>
 and <hi>answering</hi> to the <hi>Articles</hi> objected, or
 abiding any <hi>Sentence</hi> upon them, he brings
 a <hi>Recusation of the Iudge,</hi> founded chiefly
-<pb n="9" facs="tcp:0F5F35050C483210:004721_0009_0000000000000000"/>
+<pb n="9" facs="unknown:004721_0009_0000000000000000"/>
 on the <hi>following</hi> Discourse which I had
 preached the <hi>Sunday</hi> next before, and which
 therefore it was necessary to represent in
@@ -364,7 +364,7 @@ it? And if he thereby really meant me a
 Complement, of paying the greatest Regard
 to my Suspension; even in such Case, had
 he <hi>stood</hi> the Trial, and <hi>illegal</hi> and an <hi>unjust</hi>
-               <pb n="10" facs="tcp:0F5F35050C483210:004721_0010_0000000000000000"/>
+               <pb n="10" facs="unknown:004721_0010_0000000000000000"/>
 Sentence had been given against him, he
 had the <hi>same</hi> Remedy as in the Case of Re<g ref="char:EOLhyphen"/>pelling
 his <hi>Recusation,</hi> viz. an <hi>Appeal;</hi> and
@@ -401,7 +401,7 @@ with accusing the <hi>Methodists</hi> in general,
                </q> 
                <q>And that he asked why I ridi<g ref="char:EOLhyphen"/>culed
 him for making Grimaces in the
-<pb n="11" facs="tcp:0F5F35050C483210:004721_0011_0000000000000000"/>
+<pb n="11" facs="unknown:004721_0011_0000000000000000"/>
 Pulpit, <hi>&amp;c.</hi>
                </q> By all which and the An<g ref="char:EOLhyphen"/>swers,
 the Reader will be greatly instruc<g ref="char:EOLhyphen"/>ted.
@@ -430,7 +430,7 @@ of these <hi>Dregs</hi> of the Conversation, give
 the main <hi>Substance</hi> of it; which turned on
 this <hi>Question,</hi> which I very seriously asked
 him, viz. <hi>Whether he was in</hi> Jest <hi>or</hi> Ear<g ref="char:EOLhyphen"/>nest
-<pb n="12" facs="tcp:0F5F35050C483210:004721_0012_0000000000000000"/>
+<pb n="12" facs="unknown:004721_0012_0000000000000000"/>
                <hi>in the Scene he was carrying on in the
 World?</hi> In Answer, he affirmed that he
 was in <hi>Earnest,</hi> and that it was the Work
@@ -466,7 +466,7 @@ still <hi>greater</hi> D<gap reason="illegible" resp="#TECH" extent="1 letter">
 of <hi>Mahomet, Muncer, Fox, Nailor,</hi> and
 <hi>Muggleton,</hi> and therefore that such Effects
 can be no <hi>better</hi> Evidence of the <hi>Divine</hi>
-               <pb n="13" facs="tcp:0F5F35050C483210:004721_0013_0000000000000000"/>
+               <pb n="13" facs="unknown:004721_0013_0000000000000000"/>
 Approbation of <hi>his</hi> Ministry, than they
 were of <hi>theirs,</hi> who carried on, not the
 Work of <hi>God,</hi> but of the <hi>Devil</hi> plainly.
@@ -502,7 +502,7 @@ to a <hi>false</hi> one? He said, he meant a
 Person not only regularly called to the <hi>Mi<g ref="char:EOLhyphen"/>nistry</hi>
 of the <hi>Gospel,</hi> by the <hi>outward</hi> Call
 or Order of the Church, but who was tru<g ref="char:EOLhyphen"/>ly
-<pb n="14" facs="tcp:0F5F35050C483210:004721_0014_0000000000000000"/>
+<pb n="14" facs="unknown:004721_0014_0000000000000000"/>
                <hi>regenerate</hi> by the holy <hi>Spirit,</hi> in his
 Sense of Regeneration, and had the <hi>same</hi>
 Feelings of the <hi>Spirit's inward</hi> Call to that
@@ -531,7 +531,7 @@ in that Conversation, which continued
 not exceeding <hi>Half an Hour;</hi> and in the
 Close of which, 'tis very true, he told me
 (in Answer to every Thing, and especially
-<pb n="15" facs="tcp:0F5F35050C483210:004721_0015_0000000000000000"/>
+<pb n="15" facs="unknown:004721_0015_0000000000000000"/>
 the last mentioned) that he believed me to
 be <hi>an unregenerate Man, an Enemy to
 God,</hi> and <hi>of a like Spirit with the Persecu<g ref="char:EOLhyphen"/>tor</hi>
@@ -563,7 +563,7 @@ I have been often told by Mr. <hi>Whitefield</hi>'s
 Hearers, that however he <hi>shifted</hi> his Texts,
 yet generally his Discourses were still much
 the <hi>same,</hi> and that many of them would
-<pb n="16" facs="tcp:0F5F35050C483210:004721_0016_0000000000000000"/>
+<pb n="16" facs="unknown:004721_0016_0000000000000000"/>
 equally have suited any <hi>other</hi> Texts in the
 <hi>Bible</hi> as those from which they were
 preached. But whatever his own Practice
@@ -590,7 +590,7 @@ to his <hi>Iournals.</hi>
 as much as possible, and recom<g ref="char:EOLhyphen"/>mended
 Peace and Moderation to them
 in most of my Discourses.</q> Just as <hi>Mark
-<pb n="17" facs="tcp:0F5F35050C483210:004721_0017_0000000000000000"/>
+<pb n="17" facs="unknown:004721_0017_0000000000000000"/>
 Anthony</hi> behaved towards the Conspirators,
 in the Case of <hi>Iulius Caesar</hi>
             </p>
@@ -622,7 +622,7 @@ And 3dly, that they are <hi>idle</hi> and <hi>negligent</hi> of
 their Duty. He has <hi>omitted</hi> what passed on
 the Subject of <hi>Iustification by Faith aloue;</hi>
 but which is contained more at large in my
-<pb n="18" facs="tcp:0F5F35050C483210:004721_0018_0000000000000000"/>
+<pb n="18" facs="unknown:004721_0018_0000000000000000"/>
 printed Letters. He has <hi>omitted</hi> the
 Reason he gave for not using the <hi>Liturgy</hi>
 of the Church, when he officiated in F<gap reason="illegible" resp="#TECH" extent="2 letters">
@@ -658,7 +658,7 @@ exceeded 5 or 6 in a Year, and but seldom
 3 or 4, and some Years there have been
 none at all.—And as to the <hi>Assemblies,</hi>
 there never was any such Thing in the
-<pb n="19" facs="tcp:0F5F35050C483210:004721_0019_0000000000000000"/>
+<pb n="19" facs="unknown:004721_0019_0000000000000000"/>
 Place, 'till about 2 or 3 Years ago some
 10 or 12 <hi>Gentlemen</hi> and their <hi>Ladies,</hi> of
 the first <hi>Figure</hi> and <hi>Character</hi> in the Place,
@@ -686,7 +686,7 @@ his Institution, of Men and Women,
 Boys and Girls, <hi>building up one another</hi> in
 Conceit of their being <hi>righteous,</hi> and not
 only <hi>despising</hi> but <hi>damning all others</hi> round
-<pb n="20" facs="tcp:0F5F35050C483210:004721_0020_0000000000000000"/>
+<pb n="20" facs="unknown:004721_0020_0000000000000000"/>
 about them, I should have preach'd against
 them with all my Might.—He has <hi>fa<gap reason="illegible" resp="#TECH" extent="3 letters">
                      <desc>•••</desc>
@@ -721,7 +721,7 @@ Manner.</p>
             <p>And thus I have finished my Remarks,
 at present, on the Passages of his <hi>Iournals</hi>
 relating to me; but farther to shew the
-<pb n="21" facs="tcp:0F5F35050C483210:004721_0021_0000000000000000"/>
+<pb n="21" facs="unknown:004721_0021_0000000000000000"/>
 Trim of the Man, I shall take Leave to
 add, how much the same sort of <hi>defective,
 mangled</hi> and <hi>falsified</hi> Account he has pu<g ref="char:EOLhyphen"/>blished,
@@ -753,7 +753,7 @@ of Infants in <hi>Baptism</hi> (I take Leave
 to add) is not the Regeneration which he
 preaches; which is a Regeneration from
 <hi>actual Habits</hi> of Sin in <hi>adult</hi> Persons after<g ref="char:EOLhyphen"/>wards
-<pb n="22" facs="tcp:0F5F35050C483210:004721_0022_0000000000000000"/>
+<pb n="22" facs="unknown:004721_0022_0000000000000000"/>
 and which ought rather to be call'd
 <hi>Reformation, Repentance,</hi> or <hi>Conversion.</hi>
 And so St. <hi>Augustine</hi> distinguisheth.—
@@ -789,7 +789,7 @@ what <gap reason="illegible" resp="#TECH" extent="1 letter">
                </gap>ollows, <hi>and by the Grace of
 God we MAT arise again.—</hi> Now if he
 had thus fairly cited the <hi>Article,</hi> how in
-<pb n="23" facs="tcp:0F5F35050C483210:004721_0023_0000000000000000"/>
+<pb n="23" facs="unknown:004721_0023_0000000000000000"/>
 the World could it have serv'd his Purpose,
 or answer'd to support his Assertion, that
 <hi>a true Child of God could never fall finally?</hi>
@@ -817,7 +817,7 @@ Scheme. They plainly saw the Doctrines
 of <hi>universal Redemption,</hi> and <hi>falling from
 Grace,</hi> contained in them, (Art. 31, and 16)
 which blow up <hi>that</hi> Scheme, and break
-<pb n="24" facs="tcp:0F5F35050C483210:004721_0024_0000000000000000"/>
+<pb n="24" facs="unknown:004721_0024_0000000000000000"/>
 its fine <hi>Chain</hi> of Doctrines all to Pieces:
 And therefore they complained and called
 for a Reformation of the <hi>Articles,</hi> both be<g ref="char:EOLhyphen"/>fore,
@@ -844,7 +844,7 @@ Leave to instance in his Two Fellow-Labourers,
             <p>If the Bounds of this <hi>Preface</hi> would
 permit, I might remark a Number of the
 low <hi>Artifices</hi> of this <hi>Gentleman,</hi> both in
-<pb n="25" facs="tcp:0F5F35050C483210:004721_0025_0000000000000000"/>
+<pb n="25" facs="unknown:004721_0025_0000000000000000"/>
 collecting Materials for his <hi>Iournals,</hi> and
 <gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -916,7 +916,7 @@ Friends, I will <hi>weep</hi> with you and for
 you;</q>—And so falls a howling himself,
 'till the <hi>Handkerchiefs</hi> begin to move, and
 then there's <hi>Conversion-Work, Power,</hi> and
-<pb n="26" facs="tcp:0F5F35050C483210:004721_0026_0000000000000000"/>
+<pb n="26" facs="unknown:004721_0026_0000000000000000"/>
                <hi>Success<g ref="char:punc">▪</g>
                </hi> and all as it should be fitted for
 the <hi>Iournal.</hi> Another of his <hi>Artifices,</hi> is,
@@ -948,7 +948,7 @@ IT TO HIM] he had then set
 down the <hi>whole</hi> Truth, as Mr. <hi>Iones</hi> as<g ref="char:EOLhyphen"/>sures
 me.</p>
             <p>
-               <pb n="27" facs="tcp:0F5F35050C483210:004721_0027_0000000000000000"/>
+               <pb n="27" facs="unknown:004721_0027_0000000000000000"/>
                <hi>Once</hi> more, and I have done. <hi>viz.</hi> His
 applying to himself such Passages of Scrip<g ref="char:EOLhyphen"/>ture,
 as he thinks suitable to any his parti<g ref="char:EOLhyphen"/>cular
@@ -979,7 +979,7 @@ to Mr. <hi>Whitefield<g ref="char:punc">▪</g>
 full <hi>Meridian</hi> when at <hi>Boston</hi> in <hi>New-En<g ref="char:EOLhyphen"/>gland.
 There</hi> was a People for the Gene<g ref="char:EOLhyphen"/>rality,
 <hi>after his own Heart,</hi> and he a Man
-<pb n="28" facs="tcp:0F5F35050C483210:004721_0028_0000000000000000"/>
+<pb n="28" facs="unknown:004721_0028_0000000000000000"/>
                <hi>after theirs. There</hi> was his <hi>ne plus <gap reason="illegible" resp="#TECH" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
@@ -1027,7 +1027,7 @@ do. And accordingly <hi>they</hi> who had long
 boasted of their being <hi>enlightened</hi> with the
 <hi>true Faith, regenerate, justified,</hi> and in the
 alone true State of Salvation, and had run
-<pb n="29" facs="tcp:0F5F35050C483210:004721_0029_0000000000000000"/>
+<pb n="29" facs="unknown:004721_0029_0000000000000000"/>
 about in the World, with much Diligence
 and no less Assurance, to <hi>enlighten</hi> others;
 began to <hi>doubt</hi> a little of Matters, and
@@ -1059,7 +1059,7 @@ they had begat him to. He may come
 over to their <hi>new Faith</hi> if he pleases; but
 if either his <hi>Pride</hi> or <hi>Honesty</hi> will not suf<g ref="char:EOLhyphen"/>fer
 him to do it, then he must <hi>mountebank</hi>
-               <pb n="30" facs="tcp:0F5F35050C483210:004721_0030_0000000000000000"/>
+               <pb n="30" facs="unknown:004721_0030_0000000000000000"/>
 along by himself, and get to Heaven if he
 can, with <hi>such a Sense of his Vi<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
@@ -1093,7 +1093,7 @@ Sectaries in other Countries. They pretend
 in general to great Refinements, as to what
 regards the Practice of Christianity, and
 to observe the following Rules. To re<g ref="char:EOLhyphen"/>tire
-<pb n="31" facs="tcp:0F5F35050C483210:004721_0031_0000000000000000"/>
+<pb n="31" facs="unknown:004721_0031_0000000000000000"/>
 much from the Conversation of the
 World. To sink themselves into an entire
 Repo<gap reason="illegible" resp="#TECH" extent="1 letter">
@@ -1129,7 +1129,7 @@ the Protestants of <hi>Germany,</hi> as well
 as those of <hi>Switzerland,</hi> and has occasioned
 several Edicts against it in the Dutchy of
 <hi>Saxony.</hi> The Professors of it are accused
-<pb n="32" facs="tcp:0F5F35050C483210:004721_0032_0000000000000000"/>
+<pb n="32" facs="unknown:004721_0032_0000000000000000"/>
 of all the ill Practices which may seem to
 be the Consequences of their Principles, as
 that they ascribe the worst of Actions,
@@ -1167,7 +1167,7 @@ Catholick Persu<gap reason="illegible" resp="#TECH" extent="1 letter">
                </gap>sion. But I take one great
 Cause why there are so few sects in the
 Church of <hi>Rome,</hi> to be the Maltitude of Con<g ref="char:EOLhyphen"/>vents
-<pb n="33" facs="tcp:0F5F35050C483210:004721_0033_0000000000000000"/>
+<pb n="33" facs="unknown:004721_0033_0000000000000000"/>
 with which they every where abound,
 that serve as Receptacles for all those fiery
 Zealots who would set the Church in a
@@ -1191,7 +1191,7 @@ Practice of those to whom they go over.</p>
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:0F5F35050C483210:004721_0034_0000000000000000"/>
+            <pb facs="unknown:004721_0034_0000000000000000"/>
             <epigraph>
                <bibl>LUKE VIII. 18.</bibl>
                <q>Take heed therefore how ye hear.</q>
@@ -1212,7 +1212,7 @@ Thorns;</hi> representing, in the <hi>Mythology</hi> or
 profit</hi> the Hearers, i.e, will not bring forth
 in them the Fruits of <hi>Faith, Repentance,</hi>
 and <hi>good Works,</hi> or be of any Advantage
-<pb n="2" facs="tcp:0F5F35050C483210:004721_0035_0000000000000000"/>
+<pb n="2" facs="unknown:004721_0035_0000000000000000"/>
 towards their <hi>Salvation:</hi> To which is sub<g ref="char:EOLhyphen"/>join'd
 this <hi>Caveat</hi> or Admonition of the
 Text, <hi>Take heed therefore how ye hear.</hi>
@@ -1240,7 +1240,7 @@ various other Causes there are of the <hi>Un<g ref="char:EOLhyphen"/>fruitfulnes
 of <hi>Seed sown,</hi> besides the <hi>bad</hi>
 Dispositions of the Ground, as <hi>Floods,</hi> or
 <hi>Drought,</hi> the <hi>Caterpillar,</hi> or <hi>Canker-worm,
-<pb n="3" facs="tcp:0F5F35050C483210:004721_0036_0000000000000000"/>
+<pb n="3" facs="unknown:004721_0036_0000000000000000"/>
 Blasts,</hi> or <hi>Mildews,</hi> &amp;c. yet none other
 we find mentioned in the <hi>Parable,</hi> but the
 <hi>bad</hi> Dispositions of the Ground only: And
@@ -1268,7 +1268,7 @@ Text, <hi>Take heed therefore how ye hear;</hi>
 that is, <hi>take heed</hi> that you sue all <hi>good</hi>
 Husbandry and Diligence to amend those
 <hi>bad</hi> Dispositions of your Hearts, which
-<pb n="4" facs="tcp:0F5F35050C483210:004721_0037_0000000000000000"/>
+<pb n="4" facs="unknown:004721_0037_0000000000000000"/>
 through Slothfulness, or Want of due Care
 and Cultivation, are grown up in them,
 and obstruct your <hi>profitable</hi> Hearing of the
@@ -1294,7 +1294,7 @@ Lusts</hi> and <hi>Passions.</hi> What <hi>Rooks</hi> or <hi>Stones</hi>
 are in a Corn-field, the same are inveterate
 corrupt <hi>Habits, Lusts,</hi> and <hi>Passions,</hi> in the
 Hearts of Men; and what Obstruction those
-<pb n="5" facs="tcp:0F5F35050C483210:004721_0038_0000000000000000"/>
+<pb n="5" facs="unknown:004721_0038_0000000000000000"/>
 will be of to the <hi>Fruitfulness</hi> of <hi>Corn-seed</hi>
 sowed in the one, the same will <hi>these</hi> be of
 to the <hi>Fruitfulness</hi> of <hi>Gospel-seed</hi> sowed in
@@ -1322,7 +1322,7 @@ to Godliness, Brotherly-kindness; and to
 Brotherly-kindness, Charity;</hi> when they
 come to enter on the Christian Warfare, the
 <hi>Persecution</hi> of their darling <hi>Habits, Lusts
-<pb n="6" facs="tcp:0F5F35050C483210:004721_0039_0000000000000000"/>
+<pb n="6" facs="unknown:004721_0039_0000000000000000"/>
 Passions,</hi> to <hi>cut off a right Hand,</hi> or <hi>pluck
 out a right Eye;</hi> how quickly will they be
 <hi>offended!</hi> How quickly will the Heat of
@@ -1352,7 +1352,7 @@ of the human World: They plainly saw
 themselves under it. They saw and felt <hi>Sin
 reigning in their mortal Bodies;—a Law
 in their Members, warring against the Law</hi>
-               <pb n="7" facs="tcp:0F5F35050C483210:004721_0040_0000000000000000"/>
+               <pb n="7" facs="unknown:004721_0040_0000000000000000"/>
 of their Minds, and bringing them into
 Captivity to the Law of Sin; <hi>and even to
 a plain Confession, that</hi> when they would do
@@ -1379,7 +1379,7 @@ Nature; nor how it came into its present <hi>cor<g ref="char:EOLhyphen"/>rupt</h
 State or Condition; nor of the manner of
 the <hi>Divine</hi> Interposition necessary for Men's
 Recovery; nor of the glorious End to which
-<pb n="8" facs="tcp:0F5F35050C483210:004721_0041_0000000000000000"/>
+<pb n="8" facs="unknown:004721_0041_0000000000000000"/>
 God intends finally to conduct them: In
 a Word, few or none of them had a <hi>right</hi>
 Knowledge of God, much less <hi>how</hi> he was
@@ -1407,7 +1407,7 @@ of the <hi>Gospel</hi> strike on, and affect the most
 degenerate Minds! So evident, so plain a
 Discovery of the alone certain and <hi>adequate</hi>
 Means of their Relief and Deliverance from
-<pb n="9" facs="tcp:0F5F35050C483210:004721_0042_0000000000000000"/>
+<pb n="9" facs="unknown:004721_0042_0000000000000000"/>
 their Misery, and for advancing them to a
 State of glorious Liberty and Happiness!
 How strongly, I say, must this Discovery
@@ -1437,7 +1437,7 @@ Hearers of the Word preached unto
 them? For, if not only <hi>bare</hi> Assent, Faith,
 or Belief, but even Purposes and Resolu<g ref="char:EOLhyphen"/>tions
 of Obedience, were sufficient to <hi>profi<g ref="char:EOLhyphen"/>table</hi>
-               <pb n="10" facs="tcp:0F5F35050C483210:004721_0043_0000000000000000"/>
+               <pb n="10" facs="unknown:004721_0043_0000000000000000"/>
 Hearing, who would not <hi>profitably</hi>
 hear the <hi>Gospel?</hi> Who would not see, be<g ref="char:EOLhyphen"/>lieve,
 and rejoice in it, as <hi>a great Salva<g ref="char:EOLhyphen"/>tion?</hi>
@@ -1465,7 +1465,7 @@ of this <hi>Indisposition</hi> of our Hearts in <hi>Hear<g ref="char:EOLhyphen"/
 viz. their Incumbrance with corrupt
 Lusts and Passions, and Habits derived from
 them, which will be sure to defeat <hi>the
-<pb n="11" facs="tcp:0F5F35050C483210:004721_0044_0000000000000000"/>
+<pb n="11" facs="unknown:004721_0044_0000000000000000"/>
 Word,</hi> and render it <hi>nnfruitful.</hi> Let us
 <hi>take heed</hi> of this Indisposition I say, so as
 to do all our Skill and Diligence to correct
@@ -1492,7 +1492,7 @@ the <hi>Cares</hi> and <hi>Amusements</hi> of the World.
 And a strong and beautiful <hi>Emblem</hi> or Re<g ref="char:EOLhyphen"/>presentation
 it is. For in every Circum<g ref="char:EOLhyphen"/>stance
 or Respect, as <hi>Thorns</hi> in a Field will
-<pb n="12" facs="tcp:0F5F35050C483210:004721_0045_0000000000000000"/>
+<pb n="12" facs="unknown:004721_0045_0000000000000000"/>
 defeat the Growth or Increase of any <hi>Grain</hi>
 sown in it; so will the <hi>Cares and Amusements</hi>
 of the World defeat the Increase of
@@ -1519,7 +1519,7 @@ various emergent Ruffles, either of Pros<g ref="char:EOLhyphen"/>perity
 or Adversity, to wound, defeat, and
 destroy it.</p>
             <p>AND how generally, alas! is this the
-<pb n="13" facs="tcp:0F5F35050C483210:004721_0046_0000000000000000"/>
+<pb n="13" facs="unknown:004721_0046_0000000000000000"/>
 fatal Case of <hi>Men?</hi> How many are there,
 who otherwise would be <hi>profitable Hear<g ref="char:EOLhyphen"/>ers,</hi>
 but for the <hi>Cares,</hi> the <hi>Riches,</hi> and
@@ -1547,7 +1547,7 @@ least suspends the Performance of them to a
 longer Day. And this Delay or <hi>Suspension</hi>
 once gained, it not only becomes a dange<g ref="char:EOLhyphen"/>rous
 <hi>Precedent</hi> for the future, but mean
-<pb n="14" facs="tcp:0F5F35050C483210:004721_0047_0000000000000000"/>
+<pb n="14" facs="unknown:004721_0047_0000000000000000"/>
 time also affords Opportunity for other fresh
 <hi>Cares</hi> and <hi>Temptations</hi> to enter and obtain:
 So that they move, as 'twere, in an <hi>inchan<g ref="char:EOLhyphen"/>ted
@@ -1576,7 +1576,7 @@ of <hi>Religion</hi> in good Earnest; they will then
 be no longer <hi>only Hearers of the Word,</hi> but
 <hi>Doers of the Work</hi> also, they will throw
 off the World, all its <hi>Cares, Pleasures,
-<pb n="15" facs="tcp:0F5F35050C483210:004721_0048_0000000000000000"/>
+<pb n="15" facs="unknown:004721_0048_0000000000000000"/>
 Pomps,</hi> and <hi>Vanities,</hi> and wholly attend the
 laying up for themselves <hi>Treasures</hi> in a
 better Place; <hi>where neither Moth nor Rust
@@ -1604,7 +1604,7 @@ teach, and enforce Men's Imitation of his
 own Practice and Example. To teach, that
 <hi>They cannot serve God and Mammon;</hi>—
 that <hi>If any Man love the World, the Love
-<pb n="16" facs="tcp:0F5F35050C483210:004721_0049_0000000000000000"/>
+<pb n="16" facs="unknown:004721_0049_0000000000000000"/>
 of God is not in him;</hi>—that they should
 <hi>take no Thought what they should eat, or
 what they should drink, or wherewithal
@@ -1632,7 +1632,7 @@ produce you all the <hi>Apologists</hi> and other
 Christian Writers of those Times, but <hi>Ius<g ref="char:EOLhyphen"/>tin
 Martyr</hi> alone shall suffice. <hi>Christians</hi>
 (saith he) <hi>dwell in their own Country but
-<pb n="17" facs="tcp:0F5F35050C483210:004721_0050_0000000000000000"/>
+<pb n="17" facs="unknown:004721_0050_0000000000000000"/>
 as</hi> Inmates <hi>and</hi> Foreigners; <hi>they have all
 Things common with other Men as</hi> Fellow<g ref="char:EOLhyphen"/>citizens,
 <hi>and yet suffer all Things as</hi> Stran<g ref="char:EOLhyphen"/>gers.
@@ -1658,7 +1658,7 @@ Place.</p>
 the Way-side,</hi> which must suppose the <hi>Field</hi>
 or Ground sowed in <hi>open</hi> and <hi>unfenced,</hi> so
 as to have <hi>Roads</hi> or <hi>Path-ways</hi> made thro'
-<pb n="18" facs="tcp:0F5F35050C483210:004721_0051_0000000000000000"/>
+<pb n="18" facs="unknown:004721_0051_0000000000000000"/>
 it. Now as that Ground is altogether un<g ref="char:EOLhyphen"/>fit
 or <hi>ill</hi> disposed for bringing any <hi>Seed</hi> to
 Perfection, which lies <hi>unfenced,</hi> or <hi>open</hi> to
@@ -1686,7 +1686,7 @@ crush and tread down <hi>the Word</hi> sown there!
 And hence, alas! so many occasional or ac<g ref="char:EOLhyphen"/>cidental
 <hi>Hearers</hi> in these our Days, whose
 Attendance on the <hi>Word preached</hi> once a
-<pb n="19" facs="tcp:0F5F35050C483210:004721_0052_0000000000000000"/>
+<pb n="19" facs="unknown:004721_0052_0000000000000000"/>
 Month, may be reckoned an extraordinary
 Attendance. Something or other is always
 the Matter they cannot come; or marrying
@@ -1714,7 +1714,7 @@ us towards our <hi>Edification,</hi> than a <hi>willing
 Mind,</hi> a hearty and sincere Desire of being
 <hi>edified?</hi> Or what less can we bring with
 us, if any Thing at all? Surely it is but
-<pb n="20" facs="tcp:0F5F35050C483210:004721_0053_0000000000000000"/>
+<pb n="20" facs="unknown:004721_0053_0000000000000000"/>
 small and inconsiderable Matter, that is re<g ref="char:EOLhyphen"/>quired
 of us in this Behalf; <hi>viz.</hi> a <hi>willing
 Mind.</hi> Let us contribute but this Mite,
@@ -1740,7 +1740,7 @@ Hearers are every where, I need not say.
 They love the Man (the <hi>Preacher</hi>) and
 will go to hear him. Why so? Because
 as <hi>Ezekiel</hi> was to the <hi>Iews,</hi> so is he unto
-<pb n="21" facs="tcp:0F5F35050C483210:004721_0054_0000000000000000"/>
+<pb n="21" facs="unknown:004721_0054_0000000000000000"/>
 them, <hi>as a very lovely Song of one that
 hath a pleasant Voice.</hi> The <hi>Iews</hi> came to
 hear the <hi>Prophet,</hi> not that they regarded
@@ -1768,7 +1768,7 @@ the more so, that there's seldom a Remedy
 for it in Human Power. Speak it out, you
 offend them. Represent it in its true Light
 and Nature, you provoke their Indignation,
-<pb n="22" facs="tcp:0F5F35050C483210:004721_0055_0000000000000000"/>
+<pb n="22" facs="unknown:004721_0055_0000000000000000"/>
 and their Returns of Hatred and Ill-will.
 Men are strongly averse to having their
 <hi>Understandings</hi> called in Question, and not
@@ -1798,7 +1798,7 @@ is it not ten thousand to one, but the
                   <gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
                   </gap>ankest Enthusiast,</hi> with any tolerable <hi>Air</hi>
-               <pb n="23" facs="tcp:0F5F35050C483210:004721_0056_0000000000000000"/>
+               <pb n="23" facs="unknown:004721_0056_0000000000000000"/>
 and <hi>Utterance,</hi> shall be the Man? Such
 <hi>Hearers</hi> indeed will not be long without
 <hi>Zeal;</hi> but alas! a <hi>Zeal</hi> not <hi>according to
@@ -1825,7 +1825,7 @@ the Spirit,</hi> always full of <hi>Impulses, new
 Lights,</hi> and <hi>Revelations.</hi>—And thus
 must the <hi>Enthusiast</hi> be the <hi>Man of God</hi> in<g ref="char:EOLhyphen"/>deed!
 So throughly furnished to supply
-<pb n="24" facs="tcp:0F5F35050C483210:004721_0057_0000000000000000"/>
+<pb n="24" facs="unknown:004721_0057_0000000000000000"/>
 all the <hi>Wants,</hi> or <hi>Itchings</hi> of such Hear<g ref="char:EOLhyphen"/>ers.</p>
             <p>POSSIBLY, or rather <hi>commonly</hi> indeed,
 <hi>such Hearers</hi> are, at <hi>first,</hi> a little stumbled
@@ -1851,7 +1851,7 @@ or <hi>Rome</hi> or <hi>no Christianity,</hi> or <hi>no Religion
 at all.</hi>
             </p>
             <p>
-               <pb n="25" facs="tcp:0F5F35050C483210:004721_0058_0000000000000000"/>
+               <pb n="25" facs="unknown:004721_0058_0000000000000000"/>
                <hi>TAKE heed</hi> then (my Brethren) of this
 <hi>Way-side</hi> Indisposition of Heart in <hi>Hearing.</hi>
 Give all Care and Diligence to <hi>fence in</hi> and
@@ -1879,7 +1879,7 @@ immoral, which shall not be justified as
 <hi>Fruits</hi> or Effects of these! If the <hi>wicked</hi>
 Fancy, Conceit, or Inclination be, to com<g ref="char:EOLhyphen"/>mit
 <hi>Murder, Adultery,</hi> or <hi>Incest, &amp;c.</hi> it is
-<pb n="26" facs="tcp:0F5F35050C483210:004721_0059_0000000000000000"/>
+<pb n="26" facs="unknown:004721_0059_0000000000000000"/>
 the <hi>Impulse of the Spirit,</hi> the Command of
 God, and it shall be committed.</p>
             <p>THIS is no <hi>Speculation,</hi> but what the
@@ -1907,7 +1907,7 @@ and taken from themselves, as 'twere to the
 Fellowship of <hi>Angels;</hi> and agreeably hold 'em
 in great Reverence, minister to all their Wants,
 kiss their Garments, and bow to their Benedic<g ref="char:EOLhyphen"/>tions
-<pb n="27" facs="tcp:0F5F35050C483210:004721_0060_0000000000000000"/>
+<pb n="27" facs="unknown:004721_0060_0000000000000000"/>
 —But are not <hi>Christians</hi> clear from
 all such Instances among them? We need
 not go back for such to the <hi>Gnosticks, Va<g ref="char:EOLhyphen"/>lentinians,
@@ -1939,7 +1939,7 @@ as whoever would be informed of, let him
 consult a Book entituled <hi>GANGRAENA,</hi>
 wrote by <hi>Thomas Edwards</hi> a Presbyterian
 <hi>Divine</hi> of those Times;—containing the
-<pb n="28" facs="tcp:0F5F35050C483210:004721_0061_0000000000000000"/>
+<pb n="28" facs="unknown:004721_0061_0000000000000000"/>
 fullest and most authentick Account I know
 of, of the numerous <hi>Errors, Heresies, Blas<g ref="char:EOLhyphen"/>phemies,</hi>
 and suitable <hi>Practices,</hi> which
@@ -1967,7 +1967,7 @@ strangely, I say, did the <hi>enthusiastick</hi> Turn
                         <desc>•</desc>
                      </gap>, and then put<g ref="char:EOLhyphen"/>ting out the Candle, let 'em know his fifth Light was ex<g ref="char:EOLhyphen"/>tinguished.</p>
                </note> set Men's <hi>Heads</hi> thus a Roving and
-<pb n="29" facs="tcp:0F5F35050C483210:004721_0062_0000000000000000"/>
+<pb n="29" facs="unknown:004721_0062_0000000000000000"/>
 Wandering, 'till finally they wandered in<g ref="char:EOLhyphen"/>to
 all the <hi>Errors, Distractions,</hi> and <hi>Misery,</hi>
 that 'tis possible for Men to wander into.</p>
@@ -1986,7 +1986,7 @@ And what a horrid <hi>Medley</hi> of Jargon, Blas<g ref="char:EOLhyphen"/>phemy,
 and Nonsense they poured forth a<g ref="char:EOLhyphen"/>mongst
 them, for the Dictates of God's <hi>holy
 Spirit,</hi> see only <hi>the Warnings</hi> of one <hi>Iohn</hi>
-               <pb n="30" facs="tcp:0F5F35050C483210:004721_0063_0000000000000000"/>
+               <pb n="30" facs="unknown:004721_0063_0000000000000000"/>
 sirnamed <hi>Lacy,</hi> a standing Monument to
 this Day! How strangely, I say, did this
 <hi>Farce</hi> succeed, 'till in the Fullness of the
@@ -2013,7 +2013,7 @@ Duty. But some few Years before the
 <hi>fatal Period,</hi> came hither a certain strolling
 <hi>Moravian, Dutch,</hi> or <hi>Swiss</hi> Enthusiast
 <pb n="31"
-                   facs="tcp:0F5F35050C483210:004721_0064_0000000000000000"
+                   facs="unknown:004721_0064_0000000000000000"
                    rendition="simple:additions"/>
 (<hi>Pietist</hi> as I could learn) named <hi>Christian
 George,</hi> or some such Name; who partly
@@ -2047,7 +2047,7 @@ hearken.</hi> And to this <hi>Prophet</hi> God was
 pleas'd openly and plainly to reveal, that
 <hi>the Wickedness of Men was now again be<g ref="char:EOLhyphen"/>come
 as great upon Earth as in the Days
-<pb n="32" facs="tcp:0F5F35050C483210:004721_0065_0000000000000000"/>
+<pb n="32" facs="unknown:004721_0065_0000000000000000"/>
 of</hi> Noah<g ref="char:punc">▪</g> 
                <hi>and that he therefore purposed
 to destroy Mankind a</hi> second <hi>Time from off
@@ -2079,7 +2079,7 @@ him that God would give him a <hi>Sign;</hi>
 which accordingly came to pass, and imme<g ref="char:EOLhyphen"/>diately
 on which the <hi>old Man</hi> took his
 <hi>youngest</hi> Daughter by the Hand, and gave
-<pb n="33" facs="tcp:0F5F35050C483210:004721_0066_0000000000000000"/>
+<pb n="33" facs="unknown:004721_0066_0000000000000000"/>
 her to him (the Prophet) to Wi<gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
                </gap>; and he
@@ -2113,7 +2113,7 @@ the <hi>General Sessions</hi> for <hi>Basta<gap reason="illegible" resp="#TECH" 
 to a Law of this Province. The <hi>Constable</hi>
 having received these Warrants, got two or
 three of his Neighbours to go with him-doubting
-<pb n="34" facs="tcp:0F5F35050C483210:004721_0067_0000000000000000"/>
+<pb n="34" facs="unknown:004721_0067_0000000000000000"/>
 what Usage he might meet with in
 the Execution, from so odd a <hi>Family<g ref="char:punc">▪</g>
                </hi> The
@@ -2150,7 +2150,7 @@ D<gap reason="illegible" resp="#TECH" extent="1 letter">
                </gap>m. 1724, five of them (<hi>viz. Michael
 Boineau, Peter Dutartre, Daniel Dutar<g ref="char:EOLhyphen"/>tre,
 Iohn Dutartre,</hi> and <hi>Peter Rombert</hi>)
-<pb n="35" facs="tcp:0F5F35050C483210:004721_0068_0000000000000000"/>
+<pb n="35" facs="unknown:004721_0068_0000000000000000"/>
 were arraigned and tried for <hi>Murder,</hi> found
 guilty, and condemned.</p>
             <p>ALAS, poor miserable Creatures! How
@@ -2194,7 +2194,7 @@ Facts and Circumstances of the <hi>Rebelia<gap reason="illegible" resp="#TECH" e
 in all as <hi>authorized of God,</hi> and <gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="36" facs="tcp:0F5F35050C483210:004721_0069_0000000000000000"/>
+               <pb n="36" facs="unknown:004721_0069_0000000000000000"/>
 that they had done <hi>nothing</hi> in one or other of
 the Cases, but by his <hi>express Order</hi> and <hi>Command.</hi>
             </p>
@@ -2236,7 +2236,7 @@ reserved, 'till after finding no
 <gap reason="illegible" resp="#TECH" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> the others from the Dead, as
-<pb n="37" facs="tcp:0F5F35050C483210:004721_0070_0000000000000000"/>
+<pb n="37" facs="unknown:004721_0070_0000000000000000"/>
 they expected, they became sensible of their
 Delusion, at least professed themselves so, and
 were pardon'd. But alas! One of them relap<g ref="char:EOLhyphen"/>sed
@@ -2276,7 +2276,7 @@ Graces, as shall be <hi>sufficient for us,</hi> and make us <hi>more than Conque
             </p>
             <p>
                <pb n="38"
-                   facs="tcp:0F5F35050C483210:004721_0071_0000000000000000"
+                   facs="unknown:004721_0071_0000000000000000"
                    rendition="simple:additions"/>
 IN vain indeed, at any Time, shall we strive
 or struggle in this Work, without the <hi>Holy Ghost</hi> coming
